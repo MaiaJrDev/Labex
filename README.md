@@ -4,6 +4,10 @@
 
 ## link surge : https://labexmaia.surge.sh/
 
+- Para ultilizar o painel administrativo acesse com o seguinte usuario:
+- astrodev@gmail.com
+- senha: 123456
+
 feito em ReactJS , Styled-Components, Bootstrap e Axios.
 
 preview:
